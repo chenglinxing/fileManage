@@ -1,0 +1,16 @@
+{
+  "id": "2736799",
+  "name": "fileManage",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7440249",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
